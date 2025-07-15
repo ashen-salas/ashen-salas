@@ -6,8 +6,8 @@
 I am a Front End developer interested in web development and technology. HTML, CSS, JavaScript, Python, and SQL are some of the languages I've learned over time, as well as how to use frameworks like Flask and Bootstrap. I love to keep learning and am always exploring new topics, languages, frameworks, libraries, tools, and technologies to continue advancing in my career as a developer.
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
-  - TypeScript
-  - Angular
+  - React
+  - React Native
 - 👯 I’m looking forward to collaborate on open source projects.
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: vansalas113@gmail.com
