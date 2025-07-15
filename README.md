@@ -13,9 +13,9 @@ I am a Front End developer interested in web development and technology. HTML, C
 - 📫 Reach out to me at: vansalas113@gmail.com
 
 __Check out my Portfolio:__<a href="google.com">
-- <a href="google.com">Click here</a>
+- <a href="https://ashen-salas.github.io/My-Websites/">Click here</a>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
 
 <br />
 
@@ -39,3 +39,13 @@ __Check out my Portfolio:__<a href="google.com">
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 <br/>
+
+<h2> Social <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> </h2>
+
+<a href="https://www.linkedin.com/in/salasdev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vansalas113@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/ashen-salas"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.instagram.com/hsmra_17?igsh=MTd3M250cW92ZWxlcg%3D%3D&utm_source=qr "><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
+<br />
+
